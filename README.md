@@ -1,7 +1,6 @@
-# Sales-Finance-Analytics-FMCG-
+# Sales-Finance-Analytics-FMCG
 
 Data-Driven Success: Unveiling Insights in FMCG Sales and Marketing
-![image](https://github.com/Sourav-Pattanayak/Sales-Finance-Analytics-FMCG-/assets/124489158/0c70015c-2343-4237-8c23-a8b7ec9777c0)
 
 
 Sales Report Highlights:
