@@ -11,7 +11,8 @@
 - 🎉 **Achievements:** Gauge against industry peers, facilitate budgeting, and instill confidence in the financial outlook.
 
 **Acknowledgments:**
-- 🙏 **Gratitude:** Extend heartfelt thanks to mentors Dhaval Patel, Hemanand Vadivel, and the codebasics Team for their invaluable guidance.
+- 🙏 **Gratitude:** Extend heartfelt thanks to mentors [Dhaval Patel](linkedin.com/in/dhavalsays), [Hemanand Vadivel](linkedin.com/in/hemvad), and [codebasics](https://codebasics.io/) for their invaluable guidance.
+
 - 👩‍💻 **Skills Acquired:** Attained proficiency in ETL methodology, Power Query, Power Pivot, DAX, and adept report generation.
 - 🌟 **Soft Skills:** Employed a systematic approach, prioritized optimization, and prioritized user-centric report design.
 
