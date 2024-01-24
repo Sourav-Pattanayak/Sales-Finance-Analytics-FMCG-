@@ -1,4 +1,4 @@
-**Data-Driven Success: Unveiling Insights in FMCG Sales and Marketing**
+**Data-Driven Success: Unveiling Insights in FMCG Sales and Finance**
 
 **Sales Report Highlights:**
 - 🎯 **Objective:** Craft an all-encompassing Customer Performance Report and juxtapose Market Performance against Sales Targets.
